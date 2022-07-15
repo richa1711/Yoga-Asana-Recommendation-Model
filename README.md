@@ -21,3 +21,6 @@ vectorization techniques like One hot encoding, Word2Vec, and TF-IDF to get the 
 embeddings. At last, Artificial Neural Network was built to meet the project purpose.<br/>
 
 *This Project was done in collaboration with one of my group partner named **Kshitij Kaithal**.*
+
+## **Screen-Shots of the final working model**
+
