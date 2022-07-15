@@ -22,5 +22,5 @@ embeddings. At last, Artificial Neural Network was built to meet the project pur
 
 *This Project was done in collaboration with one of my group partner named **Kshitij Kaithal**.*
 
-## **Screen-Shots of the final working model**
-
+## **Screen-Shot of the final working model**
+![Alt text](https://github.com/richa1711/Yoga-Asana-Recommendation-Model/blob/main/WhatsApp%20Image%202022-07-15%20at%205.27.37%20PM.jpeg)
